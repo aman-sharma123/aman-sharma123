@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Aman Sharma Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Aman Sharma
