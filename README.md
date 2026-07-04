@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aman Sharma Banner" width="100%">
+  <img src="./assets/banner_1.png" alt="Aman Sharma Banner" width="100%">
 </p>
 
 <div align="center">
